@@ -1,3 +1,3 @@
-App url
+App url:
 https://partsofspeechandnameentityrecognition.streamlit.app/
 
