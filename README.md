@@ -1,5 +1,6 @@
 App url:
 https://partsofspeechandnameentityrecognition.streamlit.app/
 
-NameEntityRecognition
+NameEntityRecognition and partsofspeech
+
 
