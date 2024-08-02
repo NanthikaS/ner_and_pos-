@@ -3,4 +3,3 @@ https://partsofspeechandnameentityrecognition.streamlit.app/
 
 NameEntityRecognition and partsofspeech
 
-
